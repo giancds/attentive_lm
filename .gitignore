@@ -1,0 +1,7 @@
+# ignore files
+.idea/
+data/
+*.pyc
+__pycache__/
+test.py
+*0.py
