@@ -1,6 +1,4 @@
 export CUDA_VISIBLE_DEVICES=0
-export DATA_PATH=${HOME}/data
-
 export MODEL_DIR=${HOME}/train_lms/ptb_single
 
 mkdir -p $MODEL_DIR
